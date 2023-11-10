@@ -35,9 +35,9 @@
 ![alt text](https://github.com/nosova666/DA-ingame-labwork2/blob/main/screenshot%202.png)
 
 ## Задание 3
-- <10000 -- ploho
-- >=10000 & <=250000 -- sredne
-- >250000 -- horosho
+- < 10000 -- ploho
+- >= 10000 & <=250000 -- sredne
+- > 250000 -- horosho
 
 ![alt text](https://github.com/nosova666/DA-in-GameDev-lab2/blob/main/screenshot%203.png)
 ![alt text](https://github.com/nosova666/DA-in-GameDev-lab2/blob/main/screenshot%204.png)
